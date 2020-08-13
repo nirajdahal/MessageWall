@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageWall", "MessageWall\MessageWall.csproj", "{20B93973-9A13-4371-BE13-E010C62642D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tips", "Tips", "{EC75D467-F2E4-4A6A-8602-45867BEC0AC4}"
+	ProjectSection(SolutionItems) = preProject
+		Tips.txt = Tips.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B93973-9A13-4371-BE13-E010C62642D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B93973-9A13-4371-BE13-E010C62642D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B93973-9A13-4371-BE13-E010C62642D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B93973-9A13-4371-BE13-E010C62642D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3EEACC-4D42-4BCC-9FD9-5CDCE323F6FD}
+	EndGlobalSection
+EndGlobal

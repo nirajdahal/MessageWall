@@ -1,0 +1,12 @@
+Windows Form Application (WFA)
+
+- WFA use a lot of partial class
+- Partial class  provides a special ability to implement the functionality of a single class into multiple files and 
+  all these files are combined into a single class file when the application is compiled.
+- In windows form there are two Dashboard class to sepearte  display code and  form logic code. At the end compiler compiles these two classes.
+- In our demo app, public partial class Dashboard: Form => form logic code && public class Dashboard => display code
+
+- Try to put the user interface code in its own class and others in class library so that we can replace
+  the app with any user interface in the future.
+
+Pro Tip: Get to know winforms because they are easy and still in use but dont stay there.
